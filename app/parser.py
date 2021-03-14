@@ -11,4 +11,5 @@ class XBRLParser():
         example: /Users/m_ishikawa/Downloads/toyota2020.xbrl
         """
         self.xbrl_file_path = xbrl_file_path
+
     
